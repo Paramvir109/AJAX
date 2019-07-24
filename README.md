@@ -1,6 +1,6 @@
 # Ajax
 
-This is the repo for [Udacity's Ajax course](). The course covers making asynchronous requests using three different methods:
+This is the repo for [Udacity's Ajax course](https://github.com/udacity/course-ajax). The course covers making asynchronous requests using three different methods:
 
 * the XHR object
 * jQuery's `.ajax()` method
@@ -8,14 +8,6 @@ This is the repo for [Udacity's Ajax course](). The course covers making asynchr
 
 The same project is built with each of these techniques. You'll find one folder for each.
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Creator](#creators)
-
-## Instructions
-
-There are no special instructions for this project.
 
 ## Creators
 
